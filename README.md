@@ -3,7 +3,6 @@
 
 **Address:** Via Orabona 4, Bari, Italy  
 **Email:** [a.maghami@phd.poliba.it](mailto:a.maghami@phd.poliba.it)  
-**Phone:** +39 351 337 8084  
 
 **Online Profiles:**  
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?user=Lrv5NeYAAAAJ&hl=en&oi=ao)  
