@@ -160,32 +160,6 @@
 
 ---
 
-## References
-
-- **Prof. Antonio Papangelo**  
-  Politecnico di Bari, Italy  
-  Tel: +39 080 596 3623  
-  Email: [antonio.papangelo@poliba.it](mailto:antonio.papangelo@poliba.it)  
-  [Google Scholar](https://scholar.google.com/citations?user=kUaZTJYAAAAJ&hl=en&oi=ao)
-
-- **Prof. Merten Stender**  
-  Technische Universität Berlin, Germany  
-  Tel: +49 30 314-77117  
-  Email: [merten.stender@tu-berlin.de](mailto:merten.stender@tu-berlin.de)  
-  [Google Scholar](https://scholar.google.com/citations?user=sdoNndcAAAAJ&hl=en&oi=ao)
-
-- **Prof. Michele Ciavarella**  
-  Politecnico di Bari, Italy  
-  Tel: +39 080 596 3670  
-  Email: [michele.ciavarella@poliba.it](mailto:michele.ciavarella@poliba.it)  
-  [Google Scholar](https://scholar.google.com/citations?user=FcC7-AUAAAAJ&hl=en&oi=ao)
-
-- **Prof. Dominik Schillinger**  
-  University of Minnesota, USA / Technische Universität Darmstadt, Germany  
-  Tel: +49 511 762-4290  
-  Email: [schillinger@mechanik.tu-darmstadt.de](mailto:schillinger@mechanik.tu-darmstadt.de), [dominik@umn.edu](mailto:dominik@umn.edu)  
-  [Google Scholar](https://scholar.google.com/citations?user=XMixcPMAAAAJ&hl=en&oi=ao)
-
 ---
 
 > *For a full publication list and more details, please refer to [Google Scholar](https://scholar.google.com/citations?user=Lrv5NeYAAAAJ&hl=en&oi=ao) or contact me directly.*
