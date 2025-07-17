@@ -93,7 +93,7 @@
 - **A. Maghami** et al. (2024). *Bulk and fracture process zone contribution to the rate-dependent adhesion amplification in viscoelastic broad-band materials*, Journal of the Mechanics and Physics of Solids, [doi](https://doi.org/10.1016/j.jmps.2024.105844)
 - **A. Maghami** et al. (2024). *Viscoelastic amplification of the pull-off stress in the detachment of a rigid flat punch from an adhesive soft viscoelastic layer*, Engineering Fracture Mechanics, [doi](https://doi.org/10.1016/j.engfracmech.2024.109898)
 - **A. Maghami**, F. Shahabian, S. M. Hosseini (2018). *Path following techniques for geometrically nonlinear structures based on Multi-point methods*, Computers & Structures, [doi](https://doi.org/10.1016/j.compstruc.2018.07.005)
-- ... *(And more. Please refer to the original LaTeX for the full, detailed list.)*
+- ... *(And more. Please refer to the original pdf for the full, detailed list.)*
 
 ---
 
@@ -141,7 +141,7 @@
 - "Viscoelastic crack propagation: is the fracture process zone contribution to dissipation rate-dependent?" (2025), 12th European Solid Mechanics Conference, Lyon, France
 - "Real-time insight into adhesion of Hertzian indenter unloaded from a broadband viscoelastic substrate through a physic-augmented machine learning model" (2025), 12th ESMC, Lyon, France
 - "Toward Real-Time Prediction of Adhesion in Viscoelastic Substrates with Physics-Augmented Machine Learning" (2025), 8th International Conference on Computational Contact Mechanics, Munich, Germany
-- ... *(See LaTeX for complete list)*
+- ... *(See pdf for complete list)*
 
 ---
 
