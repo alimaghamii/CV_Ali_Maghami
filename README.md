@@ -18,11 +18,11 @@
 ## Education and Academic Experiences
 
 - **Research Scholar**  
-  *Universität Stuttgart, Germany* (July 2025 - Present)  
+  *Universität Stuttgart, Germany* (July 2025 - Aug 2025)  
   Supervisor: Prof. Malte Krack
 
 - **Research Scholar**  
-  *Cyber-Physical Systems in Mechanical Engineering, Technische Universität Berlin, Germany* (July 2024 - Present)  
+  *Cyber-Physical Systems in Mechanical Engineering, Technische Universität Berlin, Germany* (July 2024 - April 2025)  
   Supervisor: Prof. Merten Stender
 
 - **2nd Ph.D. in Mechanical Engineering**  
